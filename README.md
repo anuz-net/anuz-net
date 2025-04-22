@@ -15,6 +15,14 @@ Currently studying at **Lumbini ICT Campus** 🎓
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
+<!-- Design & Video Tools -->
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=flat&logo=davinci-resolve&logoColor=white)
+
+
 ---
 
 ## 🏆 Projects
@@ -32,6 +40,7 @@ Currently studying at **Lumbini ICT Campus** 🎓
 
 ![Anuz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuz-net&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuz-net&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=anuz-net&theme=radical)
 
 ---
 
