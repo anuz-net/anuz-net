@@ -46,7 +46,7 @@ Currently studying at **Lumbini ICT Campus** 🎓
 ## 📫 Let's Connect
 
 - 📧 Email: *anujdhakal21@gmail.com*
-- 🐦 Phone: *[@yourhandle](#)*
+- 🐦 Phone: *+977-982-1270836*
 
 ---
 
