@@ -50,31 +50,9 @@ Currently studying at **Lumbini ICT Campus** 🎓
   <img src="https://github-profile-trophy.vercel.app/?username=anuz-net&theme=onedark&column=4&no-bg=true&no-frame=true&title=Commits,PullRequest,Repositories,Stars" alt="GitHub Trophies" />
 </p>
 
-### 🌟 Highlight Reel
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=anuz-net&theme=highcontrast&date_format=j%20M%5B%20Y%5D" 
-           alt="Current Streak" 
-           style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=anuz-net&show_icons=true&theme=vue&hide=issues" 
-           alt="GitHub Stats" 
-           style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
-### 🏅 Badge Collection
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Student%20Developer-Focus-important" alt="Student Developer">
-</p>
 
 
 ## 🌱 Current Focus
