@@ -1,73 +1,63 @@
-# 👋 Hi, I'm Anuz
+# 👋 Hey, I'm Anuz  
 
-![Profile Views](https://komarev.com/ghpvc/?username=anuz-net&label=Profile%20Views&color=0e75b6&style=flat)
-
-**Beginner Web Developer** | **Java Learner** | **Bootstrap Learner**  
-Currently studying at **Lumbini ICT Campus** 🎓
+🌱 ** Also a Graphics Designer**  
+📍 Student at **Lumbini ICT Campus**
 
 ---
 
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-<!-- Design & Video Tools -->
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=flat&logo=davinci-resolve&logoColor=white)
-
+## 🚀 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 🏆 Projects
+## 📌 Featured Projects
+🔹 **[Dice Roller](https://github.com/anuz-net/dice-roller)** – Fun dice rolling app using HTML, CSS & JS  
+🔹 **[College Hub](https://github.com/anuz-net/college-hub)** – A social hub project for college students  
+🔹 **[Twitter Clone (Simple)](https://github.com/anuz-net/twitter-clone)** – Beginner-friendly clone of Twitter with basic features  
+🔹 **[Bootstrap5 Projects](https://github.com/anuz-net/bootstrap5-projects)** – Hands-on Bootstrap components & layouts  
+🔹 **[Java Programs](https://github.com/anuz-net/java-programs)** – Practice programs from Java learning journey  
 
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| **[College Website](https://github.com/anuz-net/College-Website)** | Collaborative college website project | HTML, CSS, JS |
-| **[Bootstrap5 Projects](https://github.com/anuz-net/Bootstrap5)** | Bootstrap 5 learning repository | HTML, Bootstrap |
-| **[Java Programming](https://github.com/anuz-net/JavaProgrammingClass)** | Java coursework from LICT Campus | Java |
-| **[NextGen Website](https://github.com/anuz-net/nextGen-website)** | Modern Bootstrap 5 website | HTML, Bootstrap |
+✨ _Check out my repos → [anuz-net](https://github.com/anuz-net?tab=repositories)_
+
+---
+## 📊 GitHub Insights
+
+### 🔥 Streak & Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuz-net&theme=radical&hide_border=true)
+
+### 📈 Overall Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuz-net&show_icons=true&theme=radical&hide_border=true)
+
+### 💡 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuz-net&layout=compact&theme=radical&hide_border=true)
+
+### 📉 Activity Graph
+![Anuz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuz-net&theme=react-dark&hide_border=true)
 
 ---
 
-## 📊 GitHub Stats
-
-![Anuz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuz-net&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuz-net&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=anuz-net&theme=radical)
-
----
 ## 🏆 GitHub Achievements
-
-### 🚀 Contribution Mastery
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuz-net&theme=onedark&column=4&no-bg=true&no-frame=true&title=Commits,PullRequest,Repositories,Stars" alt="GitHub Trophies" />
-</p>
-
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=anuz-net&theme=dracula&margin-w=10&margin-h=10)
 
 ---
 
-
-
-## 🌱 Current Focus
-
-- Mastering **Bootstrap 5** components
-- Improving **JavaScript** fundamentals
-- Exploring **Java** application development
+## 🎯 What I’m Learning Now
+- **TailwindCSS** for modern, responsive UI  
+- **Python** for scripting & backend basics  
+- **JavaScript** deeper concepts (DOM, ES6+, APIs)  
 
 ---
 
-## 📫 Let's Connect
+## 📬 Connect with Me
+📧 anujdhakal21@gmail.com  
+🌐 [My GitHub Profile](https://github.com/anuz-net)  
 
-- 📧 Email: *anujdhakal21@gmail.com*
-- 🐦 Phone: *+977-982-1270836*
+💡 _“Every commit is a step forward in my journey.”_
 
 ---
-
-**Always learning, always building!** 🚀
