@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Anuz  
 
-🌱 ** Also a Graphics Designer **  
+🌱 Also a Graphics Designer   
 📍 Student at **Lumbini ICT Campus**
 
 ---
